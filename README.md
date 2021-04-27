@@ -13,14 +13,22 @@ Blackjack has over 100 rule variations. Since the 1960s, blackjack has been a hi
 
 Apporach
  Step 1: We give some money to tyhe user and ask hikm if he wants to play or quit. 
- Step 2: Then create a fuction for all the fuction for suits,rank and value of each number.
+ 
+ Step 2: Then create a function for all the fuction for suits,rank and value of each number.
+ 
  Step 3: Then we create a class called Card where we assign the values to each card with the help of suits and number
+ 
  Step 4: We calculate the values of score user got with the help of class hand
+ 
  Step 5: We create a class where we shuffle where we mix the deck to make sure its fair
+ 
  Step 6: While playing we deal 2 cards to the user and then give him a option of hit or Stand
+ 
  Step 7: If he says hit then we we draw him a card and then calculate the his score 
+ 
             Else we draw for oursleves and check who has a highest score the
  Step 8: We ask first the user has enough money to make a bet and if he doesn't we end the and if the user has enough balance we continue.
+ 
  Step 9: we end the game and ask the user if he wants to play again
  
  Output:
